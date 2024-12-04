@@ -20,5 +20,3 @@
 * 支持所有多模态理解任务 (finish!)
 * 支持所有图像生成任务 (todo...)
 
-## Result
-[google sheets](https://docs.google.com/spreadsheets/d/1T8Hw6H4vxpK8qSJW9VYoC4rxK-sJ3Bn7USgTkJrXjms/edit?usp=sharing)
