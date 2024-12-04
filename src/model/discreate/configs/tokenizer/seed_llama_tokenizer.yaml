@@ -1,0 +1,4 @@
+_target_: src.model.discreate.models.seed_llama_tokenizer.SeedLlamaTokenizer.from_pretrained
+pretrained_model_name_or_path: /data2/meisen/pretrained_model/seed/seed-tokenizer-2
+fp16: True
+load_diffusion: True
